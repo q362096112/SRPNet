@@ -14,7 +14,7 @@ ALL_SCALE=( "MIDDLE") # config of pseudolabels
 
 ### Use L/R kidney as testing classes
  LABEL_SETS=0
- EXCLU='[2,3]' # setting 2: excluding kidneies in training set to test generalization capability even though they are unlabeled. Use [] for setting 1 by Roy et al.
+ EXCLU='[]' # setting 2: excluding kidneies in training set to test generalization capability even though they are unlabeled. Use [] for setting 1 by Roy et al.
 
 ### Use Liver and spleen as testing classes
 #LABEL_SETS=1
