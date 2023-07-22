@@ -1,5 +1,5 @@
 """
-ALPNet
+SRPNet
 """
 from collections import OrderedDict
 import torch
